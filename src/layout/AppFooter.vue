@@ -2,7 +2,7 @@
 
 <template>
     <div class="layout-footer">
-        SAKAI by
-        <a href="https://primevue.org" target="_blank" rel="noopener noreferrer" class="text-primary font-bold hover:underline">PrimeVue</a>
+        &copy; 2024,
+        <a href="https://lucaasnogueira.github.io/portifolio" target="_blank" rel="noopener noreferrer" class="text-primary font-bold hover:underline">Lucas Nogueira</a>
     </div>
 </template>
